@@ -20,7 +20,7 @@ Running the game:
 
 Open a terminal/console/shell, "cd" to the game directory and run the command
 
-  python run_game.py
+  python Tasters-1.0.py
 
 
 ################
